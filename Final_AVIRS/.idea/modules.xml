@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Employee_Gui/.idea/Employee_Gui.iml" filepath="$PROJECT_DIR$/../Employee_Gui/.idea/Employee_Gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Final_AVIRS.iml" filepath="$PROJECT_DIR$/.idea/Final_AVIRS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyQT/.idea/PyQT.iml" filepath="$PROJECT_DIR$/../PyQT/.idea/PyQT.iml" />
+    </modules>
+  </component>
+</project>
