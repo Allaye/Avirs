@@ -49,7 +49,7 @@ class aboutwindow(QWidget):
                               "requirement by the university (Ghana Technology University) requrement, KOLADE GIDEON "
                               "and CHARLES ASARE have embark on the developemnt of this system to help the police "
                               "service in ALAJO ACCRA to detect and recognize vehicles of interest, this system helps "
-                              "eliminate the use of manpower for scanning through video and image feeds in other to "
+                              "eliminate the use of inefficient manpower for scanning through huge video and image feeds in other to "
                               "identify vehicles of interest.")
 
         font = QFont('Arial', 10, QFont.Bold)
@@ -86,7 +86,7 @@ class helpwindow(QWidget):
         self.show()
 
     def label(self):
-        self.label = QLabel("The File menu contains one action button that can be use to import single or multiple "
+        self.label = QLabel("The File menu contains one action button that can be use to import single or multiple image or video "
                             "files. \b "
                             "The Scan button is used to process the current image in view and all the information "
                             "retrieved are sent into the database. \b"
